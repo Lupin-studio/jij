@@ -1,0 +1,113 @@
+.nav{
+    display: inline;
+  
+    margin-top: 1%;
+}
+.nav-list{
+display: flex;
+background-color:;
+}
+.nav-list-關於我們{
+    display: block;
+    list-style: none;
+    margin-left: 20%;
+   cursor:pointer;
+   padding:5px;
+  border:2px solid #ff1694;
+  font-family: Microsoft JhengHei;
+}
+.nav-list-產品介紹{
+    display: block;
+    list-style: none;
+    margin-left: 5%;
+   cursor:pointer;
+   padding:5px;
+  border:2px solid #ff1694;
+  font-family: Microsoft JhengHei;
+}
+.nav-list-優惠活動{
+    display: block;
+    list-style: none;
+    margin-left: 5%;
+   cursor:pointer;
+   padding:5px;
+  border:2px solid #ff1694;
+  font-family: Microsoft JhengHei;
+}
+.nav-list-logo{
+    display: block;
+    list-style: none;
+    margin-left: 10%;
+    display: block;
+    justify-self: center;
+}
+.nav-list-網友分享{
+    display: block;
+    list-style: none;
+    margin-left: 5%;
+   cursor:pointer;
+   padding:5px;
+  border:2px solid #ff1694;
+  font-family: Microsoft JhengHei;
+}
+
+.nav-list-聯絡我們{
+    display: block;
+    list-style: none;
+    margin-left: 5%;
+   cursor:pointer;
+   padding:5px;
+  border:2px solid#ff1694;
+  font-family: Microsoft JhengHei;
+}
+.nav-list-線上諮詢{
+    display: block;
+    list-style: none;
+    margin-left: 5%;
+  cursor:pointer;
+  padding:5px;
+  border:2px solid #ff1694;
+  font-family: Microsoft JhengHei;
+}
+
+
+.aside{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.aside-item1{
+    display: block;
+
+}
+
+.aside-item2{
+    display: block;
+    
+}
+.aside-item3{
+    display: block;
+}
+
+.section { 
+    color:white; 
+    width:70%; 
+    background: #111; height: 100px; 
+    position:inline; 
+    float:left;
+height: 180px;width: 45%;
+margin：20px 20px;
+padding:1%;
+display: flex;
+justify-content: space-between;
+font-family: Microsoft JhengHei;
+}
+
+
+    .aside { 
+    float: right; 
+    background: #CCC; height: 90%;width: 45%;
+      margin：10px;
+padding:1%;
+font-family: Microsoft JhengHei;} 
